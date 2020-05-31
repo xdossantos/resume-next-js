@@ -1,6 +1,6 @@
-# BitzPrice
+# Xola dos Santos Resumé
 
-> Sample Next.js app which whos the current Bitcoin value in USD, GBP and EUR
+> Xola dos Santos Resumé, built using Next.js. The app which also checks the current Bitcoin value in USD, GBP and EUR
 
 ## Quick Start
 
@@ -19,8 +19,8 @@ npm run build
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Xola dos Santos
+[XDODE](http://www.xdode.com)
 
 ### Version
 
